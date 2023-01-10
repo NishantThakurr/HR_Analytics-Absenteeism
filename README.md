@@ -7,14 +7,13 @@ The main aim of the project is to perform data visualization techniques to under
  
 
 ## 🚀 About Me
-I am Nishant Thakur,a recent M.E engineering graduate.Instead of going for a Core job or prepare for CAT or go for UPSC or preparing for Gov. exams or setting up a business etc.,I am trying to transition to Data science field
-.I'm a full stack data enthusiast.Been learning data science for some time now and really enjoying this journey.
+I am Nishant Thakur,a M.E engineering graduate and a working data analyst
 
 You can contact me at nishantthakurwork@gmail.com
 
 ## Tech Stack
 
-Business Intelligence tools and libraries works such as Numpy, Pandas, Excel, R, Tableau, Power BI are used to build the whole framework.
+Business Intelligence tools and libraries works such as Numpy, Pandas, Excel, Power BI are used to build the whole framework.
 
 ![image](https://user-images.githubusercontent.com/102639991/187908992-4328df0e-6e0c-4c71-917f-8a09f7c1e656.png)
 
